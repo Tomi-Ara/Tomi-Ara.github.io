@@ -46,3 +46,23 @@ This dashboard acts as a vital resource for stakeholders, delivering clear and a
 **Dashboard Overview:**
 
 ![Ecommerce](Ecommerce.png)
+
+# Project 2
+
+**Title:** Workplace Safety Data
+
+**SQL Code:** [Workplace Safety SQL Code](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Workplace_Safety_Data.sql)
+
+**SQL Skills Used:** 
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT, AGV): Calculated totals and average, such as sales, cost, and  quantities, and counted records to analyze data trends.
+
+Data Filtering (WHERE, GROUP BY, ORDER BY): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:** Utilized SQL queries to analyse workplace safety, identifying incident trends, risk factors, and performance metrics across various environments. Enables stakeholders to monitor and assess safety performance across plants, departments, shifts, and time periods.
+
+**Technology used:** SQL server
