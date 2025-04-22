@@ -101,7 +101,7 @@ This dashboard serves as a vital tool for stakeholders, enabling them to identif
 
 **Dashboard Overview:**
 
-![Healthcare]
+![Healthcare](Healthcare.png)
 
 # Project 3
 
