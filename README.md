@@ -202,12 +202,62 @@ This dashboard serves as a critical asset, offering clear, actionable insights t
 
 # Project 6
 
-**Title:** [Credit Risk Assessment]
+**Title:** [Credit Risk Assessment](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Credit%20Risk%20Assessment%20Dashboard.pbix)
 
-**Tools Used:**
+**Tools Used:** PowerBI (Visualisations- Bar Chart, Pie Chart, Donut Chart, Line Chart, Column Chart, Gauge, Cards and Slicers)
 
-**Project Description:**
+**Project Description:** This project focuses on analysing financial risk and loan default prediction. The dashboard enables stakeholders to monitor and assess financial risk across credit scores, age groups, income levels, and loan statuses, offering actionable insights for strategic decision-making. The dashboard includes the following features:
+
+Loan Amount by Home ownership status: Visualizes loan amounts segmented by homeownership status, enabling insights into borrowing trends and financial risk assessment.
+
+Total Repaid: Displays the total repaid loan amount based on loan status, providing insights into repayment trends and overall loan interest performance.
+
+Gender with the Highest Number of Previous Loan Default: Compares previous loan defaults by gender, providing insights into borrowing trends and financial risk assessment.
+
+Total Loan Interest Rate: Visualizes total loan interest rates over time, offering insights into interest trends and financial performance.
+
+Income by Previous Loan Defaults: Visualizes income distribution segmented by previous loan defaults, offering insights into financial risk patterns and borrower profiles.
+
+Total Default: Displays the total default loan amount based on loan status, providing insights into repayment trends and overall loan interest performance.
+
+Credit Score by Person Education:  Visualizes credit scores segmented by education level, enabling easy comparison to assess financial literacy and borrowing trends
+
+Loan Interest Rate by Loan Intent: Highlights loan interest rates segmented by loan intent, offering insights into borrowing trends and financial decision-making.
+
+Age with the Highest Loan Amount: Visualizes loan amounts segmented by age, offering insights into borrowing trends and financial risk assessment
+
+In addition, the dashboard includes interactive slicers for:
+
+Loan Status: Analyses loan status “repaid” or “default” to assess overall performance trends, providing insights into financial risk and repayment behaviour.
+
+Loan Interest Rate: Filters loan interest rate performance and gain insights into borrowing trends.
+
+Loan Intent: Analyses loan intent across individuals, providing insights into borrowing trends and financial decision-making patterns.
+
 
 **Key findings:**
 
+Repaid Total: Analysed total repaid from loan status, providing insights into loan interest rate trends to enhance financial performance and risk management.
+
+Home Ownership Status: Analysed home ownership status in relation to loan amounts, uncovering patterns that inform strategic financial planning and risk assessment.
+
+Gender by Previous Loan Default: Analysed previous loan defaults by gender, providing insights into borrowing trends and financial risk assessment to support strategic decision-making
+
+Total Loan Interest Rate: Identified total loan interest rate to uncover loan status dynamics, providing insights for strategic interest rate adjustments and financial planning.
+
+Previous Loan Default: Analysed income distribution in relation to previous loan defaults, pinpointing areas where performance could be improved for better financial risk management.
+
+Credit Score and Person Education: Analysed credit score patterns in relation to education level, uncovering insights that support strategic financial planning and risk assessment.
+
+Default Total: Revealed total default from loan status, providing insights into loan interest rate trends and supporting strategic financial planning."
+
+Interest Rate and Loan Intent: Analysed interest rate trends in relation to loan intent, uncovering insights into borrowing dynamics and informing strategic financial adjustments.
+
+Age and Loan Amount: Highlighted loan amounts segmented by age, uncovering patterns that inform strategic financial planning and risk assessment.
+
+This dashboard serves as an important analytical tool used to identify trends and assess risks, providing meaningful insights that leads to strategic planning and informed decisions.
+
+
 **Dashboard Overview:**
+
+![Credit](Credit.png)
