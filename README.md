@@ -49,6 +49,18 @@ This dashboard acts as a vital resource for stakeholders, delivering clear and a
 
 # Project 2
 
+**Title:** [Health Care Data Analysis]
+
+**Tools Used:** Advance Excel (Pivot table, Pivot chart, Slicer, and Timeline)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+# Project 3
+
 **Title:** Workplace Safety Data
 
 **SQL Code:** [Workplace Safety SQL Code](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Workplace_Safety_Data.sql)
