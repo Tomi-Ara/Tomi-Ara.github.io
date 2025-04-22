@@ -49,7 +49,7 @@ This dashboard acts as a vital resource for stakeholders, delivering clear and a
 
 # Project 2
 
-**Title:** [Health Care Data Analysis]
+**Title:** [Health Care Data Analysis](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Health%20Care%20Data%20Analysis%20Dashboard.xlsx)
 
 **Tools Used:** Advance Microsoft Excel (Pivot table, Pivot chart, Slicer, and Timeline)
 
@@ -81,7 +81,6 @@ Discharge Date: Filter discharge date data to analyse performance trends across 
 
 Date of Admission: Filter admission date data to analyse performance trends across specific months or years, uncovering seasonal patterns and healthcare efficiency insights.
 
-
 **Key findings:** 
 
 Top Medical Condition: Identified the most prevalent medical conditions, providing valuable insights to support research efforts and strategic healthcare planning.
@@ -97,7 +96,6 @@ Hospital Billing Amount: Examined the top three hospitals with the highest billi
 Admission Volatility: Evaluated admission dynamics by analysing the number of days patients were hospitalized based on prescribed medication, offering insights to refine treatment strategies and improve patient care.
 
 This dashboard serves as a vital tool for stakeholders, enabling them to identify trends, assess risks, and refine healthcare strategies for more effective decision-making.
-
 
 **Dashboard Overview:**
 
@@ -120,5 +118,17 @@ Data Filtering (WHERE, GROUP BY, ORDER BY): Applied filters to select relevant d
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:** Utilized SQL queries to analyse workplace safety, identifying incident trends, risk factors, and performance metrics across various environments. Enables stakeholders to monitor and assess safety performance across plants, departments, shifts, and time periods.
+
+**Technology used:** SQL server
+
+# Project 4
+
+**Title:** Employee Details
+
+**SQL Code:** [Employee Details SQL Code](
+
+**SQL Skills Used:**
+
+**Project Description:**
 
 **Technology used:** SQL server
