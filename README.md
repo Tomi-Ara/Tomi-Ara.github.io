@@ -2,7 +2,7 @@
 
 **Title:** [Ecommerce Consumer Behavior Analysis](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Ecommerce%20Consumer%20Behavior%20Analysis%20Dashboard.xlsx)
 
-**Tools Used:** Advance Excel (Pivot table, Pivot chart, Slicer, and Timeline)
+**Tools Used:** Advance Microsoft Excel (Pivot table, Pivot chart, Slicer, and Timeline)
 
 **Project Description:** This project entails analysing ecommerce consumer behaviour to identify trends and purchasing patterns across various purchase categories. It is structured to offer a thorough analysis of essential performance indicators. This dashboard enables stakeholders to seamlessly track and analyse ecommerce consumer behaviour across various factors, including age, payment method, purchase category, and time of purchase. Key features of the dashboard include:
 
@@ -51,13 +51,57 @@ This dashboard acts as a vital resource for stakeholders, delivering clear and a
 
 **Title:** [Health Care Data Analysis]
 
-**Tools Used:** Advance Excel (Pivot table, Pivot chart, Slicer, and Timeline)
+**Tools Used:** Advance Microsoft Excel (Pivot table, Pivot chart, Slicer, and Timeline)
 
-**Project Description:**
+**Project Description:** This project focuses on analysing healthcare data to uncover meaningful insights into industry trends. It is structured to deliver a clear and in-depth analysis of essential performance metrics. The dashboard enables stakeholders to efficiently track and evaluate healthcare performance across various hospitals, medical conditions, and time periods. The dashboard is equipped with key features such as:
 
-**Key findings:**
+Common/Least Medical Condition: Graphical representation showcasing the most and least prevalent medical conditions, providing insights into healthcare trends and disease patterns.
+
+Emergency Admission by Age: A breakdown of emergency admissions segmented by age group, providing insights into demographic trends and healthcare resource allocation.
+
+Billing Amount by Medical Condition: Visual representation of medical conditions ranked by billing amount, highlighting the condition with the highest financial impact. 
+
+Least Prescribed Medication: Identifies the least prescribed medications across hospitals, offering insights into prescribing trends and potential gaps in treatment.
+
+Hospital with the Highest Bill by Diabetic Medical Condition: Highlights the top three hospitals with the highest billing amounts for diabetic medical conditions, offering insights into healthcare costs and resource allocation
+
+Days Admitted by Prescribed Medication: Displays the duration of hospital admissions categorized by prescribed medication, offering insights into treatment effectiveness and patient recovery trends. 
+
+Additionally, the dashboard also incorporates interactive slicers and timelines for:
+
+Hospital: Drill down into specific hospitals to evaluate doctor’s performance, uncovering insights into operational cost, patient outcomes, and healthcare resource allocation. 
+
+Medical Condition: Filter medical condition data to focus on patients, enabling precise analysis of treatment trends and personalized healthcare insights.
+
+Medication: Analyse medication performance in detail, uncovering insights into prescription trends, treatment effectiveness, and patient outcomes across various conditions.
+
+Age: Analyse performance trends by specific age groups to uncover demographic insights, behavioural patterns, and strategic opportunities for optimization.
+
+Discharge Date: Filter discharge date data to analyse performance trends across specific months or years, enabling insights into seasonal variations and healthcare efficiency.
+
+Date of Admission: Filter admission date data to analyse performance trends across specific months or years, uncovering seasonal patterns and healthcare efficiency insights.
+
+
+**Key findings:** 
+
+Top Medical Condition: Identified the most prevalent medical conditions, providing valuable insights to support research efforts and strategic healthcare planning.
+
+Emergency Admission Trends: Analysed emergency admission trends by age group, uncovering patterns that support strategic healthcare planning and resource allocation.
+
+Billing Amount for Medical Conditions: Visualized medical conditions ranked by billing amount, highlighting the condition with the highest financial impact while showcasing others with lower costs.
+
+Least Prescribed Medication: Identifies the least prescribed medications, offering insights into prescribing trends and supporting inventory management and strategic decision-making.
+
+Hospital Billing Amount: Examined the top three hospitals with the highest billing amounts for diabetic medical conditions, identifying the facility with the greatest costs while highlighting others with lower expenditures uncovering patterns that support strategic healthcare planning and resource allocation.
+
+Admission Volatility: Evaluated admission dynamics by analysing the number of days patients were hospitalized based on prescribed medication, offering insights to refine treatment strategies and improve patient care.
+
+This dashboard serves as a vital tool for stakeholders, enabling them to identify trends, assess risks, and refine healthcare strategies for more effective decision-making.
+
 
 **Dashboard Overview:**
+
+![Healthcare]
 
 # Project 3
 
