@@ -117,7 +117,7 @@ Data Filtering (WHERE, GROUP BY, ORDER BY): Applied filters to select relevant d
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-**Project Description:** Utilized SQL queries to analyse workplace safety, identifying incident trends, risk factors, and performance metrics across various environments. Enables stakeholders to monitor and assess safety performance across plants, departments, shifts, and time periods.
+**Project Description:** Utilized SQL queries to analyse workplace safety, identifying incident trends, risk factors, and performance metrics across various environments. This enables stakeholders to monitor and assess safety performance across plants, departments, shifts, and time periods.
 
 **Technology used:** SQL server
 
@@ -125,10 +125,18 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Title:** Employee Details
 
-**SQL Code:** [Employee Details SQL Code](
+**SQL Code:** [Employee Details SQL Code](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Employee_Details.sql)
 
-**SQL Skills Used:**
+**SQL Skills Used:** 
 
-**Project Description:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (COUNT, MAX, MIN, AGV): Calculated max, min and average salaries of employees, and counted records to analyze data trends.
+
+Data Filtering (WHERE, BETWEEN, IN, AND, OR, NOT IN, LIKE): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:** Leveraged SQL queries to analyse employee details, tracking salaries, locations, and project performance metrics. This enables stakeholders to monitor and evaluate workforce performance across different time periods.
 
 **Technology used:** SQL server
