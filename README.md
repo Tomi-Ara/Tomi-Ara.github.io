@@ -140,3 +140,15 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:** Leveraged SQL queries to analyse employee details, tracking salaries, locations, and project performance metrics. This enables stakeholders to monitor and evaluate workforce performance across different time periods.
 
 **Technology used:** SQL server
+
+# Project 5
+
+**Title:** [Workforce Data Analysis]
+
+**Tools Used:** PowerBI (Cards, Charts, and Slicer)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
