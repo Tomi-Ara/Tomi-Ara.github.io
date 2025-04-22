@@ -143,9 +143,68 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 5
 
-**Title:** [Workforce Data Analysis]
+**Title:** [Workforce Data Analysis](https://github.com/Tomi-Ara/Tomi-Ara.github.io/blob/main/Workforce%20Data%20Analysis%20Dashboard.pbix)
 
-**Tools Used:** PowerBI (Cards, Charts, and Slicer)
+**Tools Used:** PowerBI (Visualisations- Bar Chart, Pie Chart, Donut Chart, Line Chart, Column Chart, Cards and Slicers)
+
+**Project Description:** This project focused on analysing employee performance and organizational dynamics, leveraging statistical models and data visualization to identify workforce trends and behavioural patterns. By examining key factors such as retention, productivity metrics, and engagement levels, the analysis provided actionable insights to optimize decision-making and enhance organizational effectiveness. The dashboard incorporates the following features:
+
+Highest Employee Ratings by Division: Displays a visual representation of employee ratings across divisions, offering insights into performance trends and workforce dynamics.
+
+Top 5 Work Life Balance Score by Title: Breaks down work-life balance scores by title, offering insights into trends over time and helping organizations refine employee well-being strategies.
+
+Youngest Age by Department: Visualizes the youngest age across departments, enabling easy comparison and insights into workforce demographics.
+
+Total Training Cost: Displays the total training cost incurred, providing a breakdown across departments to support budgeting and workforce development strategies.
+
+Satisfaction Score by Year: Visualizes satisfaction scores across years, enabling trend analysis and insights into employee’s sentiment over time.
+
+Managerial Positions by Gender: Displays the total number of managerial positions occupied by each gender, highlighting the highest representation to support diversity analysis and workforce planning.
+
+Training outcome by Title: Visualizes training outcomes by title, enabling easy comparison across the year to assess effectiveness and refine learning strategies.
+
+Top 3 Division and Employee Status: Analyses the top three divisions by employee status, distinguishing between active and terminated employees to uncover retention trends and workforce dynamics over time.
+
+Average Training Duration (Days) by Training Program: Highlights the average training duration by program, providing easy comparison of training days across different courses and departments.
+
+Included in the dashboard are interactive slicers for:
+
+Start Date: Filter employees start date data to analyse trends across specific years or date ranges, enabling insights into workforce dynamics and hiring patterns.
+
+Title: Analyses title to assess performance trends, providing insights into workforce dynamics and strategic decision-making.
+
+**Key findings:** 
+
+Employee Ratings: Analysed employee ratings across divisions, identifying the highest-rated area hence providing opportunities for improvement.
+
+Work Life Balance Score: Analysed work-life balance scores by title, uncovering patterns that support strategic workforce planning and employee well-being initiatives.
+
+Age by Department: Identified the youngest age across departments, providing insights into workforce demographics to support strategic hiring and managerial decisions.
+
+Training Cost: Evaluated total training costs to uncover cost dynamics, enabling organizations to refine training strategies for optimal resource allocation and workforce development.
+
+Satisfaction Score: Analysed satisfaction scores across years, pinpointing periods where performance could be enhanced to support strategic improvements and workforce engagement.
+
+Managerial Positions: Analysed gender distribution in managerial positions, uncovering patterns that inform strategic workforce planning and diversity initiatives.
+
+Training outcome: Analysed training outcomes by title, providing insights that support training effectiveness and inform managerial decisions for workforce development. 
+
+Employee Status: Examined employee status “active” or “terminated” across divisions to uncover workforce retention trends and inform strategic business decisions.
+
+Training Duration (Days): Evaluated average training duration across training programs, uncovering patterns that inform strategic adjustments for workforce development and efficiency.
+
+This dashboard serves as a critical asset, offering clear, actionable insights to support informed decision-making and strategic workforce planning.
+
+
+**Dashboard Overview:**
+
+![Workforce](Workforce.png)
+
+# Project 6
+
+**Title:** [Credit Risk Assessment]
+
+**Tools Used:**
 
 **Project Description:**
 
